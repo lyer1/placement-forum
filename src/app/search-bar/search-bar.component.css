@@ -1,0 +1,56 @@
+:host{
+    display: block;
+}
+.search-container{
+    padding: 15px 90px 10px 15px;
+    background-color: aliceblue;
+
+    >input{
+        padding: 12px 90px 12px 45px;
+        border:0cap;
+        background-color: rgb(222, 220, 220);
+        border-radius: 40px;
+        font-size: 1.1rem;
+    }
+    /* > button { 
+        position: fixed; 
+        border: none; 
+        scale: 1;
+        padding-left: 10px;
+    } */
+}
+.tags{
+    margin-top: 15px;
+    margin-left: 5px;
+    padding-top: 30px;
+    padding-bottom: 12px;
+    border-radius: 40px;
+    background-color: rgb(222, 220, 220);
+    position: fixed; 
+    border: none; 
+    scale: 1;
+    padding-left: 10px;
+}
+.active-tags{
+    width: fit-content;
+    margin-left: 100px;
+}
+
+.active-tags-item {
+    margin-top: 0px;
+    margin-left: 5px;
+    padding: 7px 12px;
+    border-radius: 40px;
+    background-color: rgb(171, 255, 188);
+}
+/* .tags-menu{
+    width: fit-content;
+    background-color: red;
+} */
+
+::ng-deep .tags-menu {
+    overflow: hidden !important;
+    /* width: fit-content; */
+    max-width: none !important;
+    background-color: rgba(255, 255, 255, 0.818);
+}

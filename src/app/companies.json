@@ -1,0 +1,166 @@
+[
+    {
+        "id": "1",
+        "name": "Tech Innovators Inc.",
+        "subtitle": "IT/Development",
+        "imgUrl": "https://example.com/images/tech-innovators.png",
+        "stages": [
+            {
+                "name": "Online Assessment",
+                "content": ""
+            },
+            {
+                "name": "Interview",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Frontline Solutions",
+        "subtitle": "Frontend",
+        "imgUrl": "https://example.com/images/frontline-solutions.png",
+        "stages": [
+            {
+                "name": "Online Assessment",
+                "content": ""
+            },
+            {
+                "name": "Group Discussion",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Digital Systems Ltd.",
+        "subtitle": "Backend",
+        "imgUrl": "https://example.com/images/backend-systems.png",
+        "stages": [
+            {
+                "name": "Interview",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Consultancy Experts",
+        "subtitle": "Consultancy",
+        "imgUrl": "https://example.com/images/consultancy-experts.png",
+        "stages": [
+            {
+                "name": "Online Assessment",
+                "content": ""
+            },
+            {
+                "name": "HR Interview",
+                "content": ""
+            },
+            {
+                "name": "Group Discussion",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Market Leaders",
+        "subtitle": "Marketing",
+        "imgUrl": "https://example.com/images/market-leaders.png",
+        "stages": [
+            {
+                "name": "Interview",
+                "content": ""
+            },
+            {
+                "name": "HR Interview",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Digital Innovations",
+        "subtitle": "IT/Development",
+        "imgUrl": "https://example.com/images/digital-innovations.png",
+        "stages": [
+            {
+                "name": "Online Assessment",
+                "content": ""
+            },
+            {
+                "name": "Interview",
+                "content": ""
+            },
+            {
+                "name": "HR Interview",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Creative Frontend",
+        "subtitle": "Frontend",
+        "imgUrl": "https://example.com/images/creative-frontend.png",
+        "stages": [
+            {
+                "name": "Online Assessment",
+                "content": ""
+            },
+            {
+                "name": "Group Discussion",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Advanced Backend",
+        "subtitle": "Backend",
+        "imgUrl": "https://example.com/images/advanced-backend.png",
+        "stages": [
+            {
+                "name": "Online Assessment",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Consulting Solutions",
+        "subtitle": "Consultancy",
+        "imgUrl": "https://example.com/images/consulting-solutions.png",
+        "stages": [
+            {
+                "name": "Interview",
+                "content": ""
+            },
+            {
+                "name": "HR Interview",
+                "content": ""
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Brand Strategists",
+        "subtitle": "Marketing",
+        "imgUrl": "https://example.com/images/brand-strategists.png",
+        "stages": [
+            {
+                "name": "Online Assessment",
+                "content": ""
+            },
+            {
+                "name": "Group Discussion",
+                "content": ""
+            },
+            {
+                "name": "Interview",
+                "content": ""
+            }
+        ]
+    }
+]

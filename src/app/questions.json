@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "Merge Intervals",
+        "poster": "Alex Johnson",
+        "posterEmail": "alex.johnson@example.com",
+        "content": "Given a collection of intervals, merge all overlapping intervals. For example, given intervals [[1,3],[2,6],[8,10],[15,18]], the merged intervals would be [[1,6],[8,10],[15,18]]."
+    },
+    {
+        "id": "2",
+        "title": "Valid Parentheses",
+        "poster": "Sarah Lee",
+        "posterEmail": "sarah.lee@example.com",
+        "content": "Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. An input string is valid if the brackets are closed in the correct order."
+    },
+    {
+        "id": "3",
+        "title": "Two Sum",
+        "poster": "Michael Smith",
+        "posterEmail": "michael.smith@example.com",
+        "content": "Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice."
+    },
+    {
+        "id": "4",
+        "title": "Longest Substring Without Repeating Characters",
+        "poster": "Jessica Green",
+        "posterEmail": "jessica.green@example.com",
+        "content": "Given a string, find the length of the longest substring without repeating characters. For example, given 'abcabcbb', the answer is 3."
+    },
+    {
+        "id": "5",
+        "title": "Add Two Numbers",
+        "poster": "David Brown",
+        "posterEmail": "david.brown@example.com",
+        "content": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list."
+    },
+    {
+        "id": "6",
+        "title": "Climbing Stairs",
+        "poster": "Emily Clark",
+        "posterEmail": "emily.clark@example.com",
+        "content": "You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?"
+    },
+    {
+        "id": "7",
+        "title": "Reverse Integer",
+        "poster": "James Wilson",
+        "posterEmail": "james.wilson@example.com",
+        "content": "Given a 32-bit signed integer, reverse digits of an integer. If reversing causes overflow, return 0. For example, given 123, return 321."
+    },
+    {
+        "id": "8",
+        "title": "Palindrome Number",
+        "poster": "Olivia Martinez",
+        "posterEmail": "olivia.martinez@example.com",
+        "content": "Determine whether an integer is a palindrome. An integer is a palindrome if it reads the same backward as forward. For example, 121 is a palindrome while 123 is not."
+    },
+    {
+        "id": "9",
+        "title": "Merge Two Sorted Lists",
+        "poster": "Liam Taylor",
+        "posterEmail": "liam.taylor@example.com",
+        "content": "Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists."
+    },
+    {
+        "id": "10",
+        "title": "Maximum Subarray",
+        "poster": "Sophia Adams",
+        "posterEmail": "sophia.adams@example.com",
+        "content": "Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum. For example, given [-2,1,-3,4,-1,2,1,-5,4], the answer is 6."
+    }
+]
